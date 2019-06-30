@@ -16,4 +16,4 @@ Breves explicações sobre, o que é um Framework e a diferença entre o Rails p
 * Instalado VM VirtualBox
 * Instalado Vagrant para trabalhar com VM VirtualBox
 
-A princípio usando o Vagrant e o VirtualBox para aprender esta forma de se trabalhar, pois como me foi informado é uma maneira diferente de compartilhar toda a configuração do projeto para uma equipe de forma mais prática e também por interesse próprio.
+A princípio estarei usando o Vagrant e o VirtualBox (Cloud9) para aprender esta forma de se trabalhar, pois como me foi informado é uma maneira diferente de compartilhar toda a configuração do projeto para uma equipe de forma mais prática e também por interesse próprio.
