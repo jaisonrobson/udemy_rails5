@@ -17,3 +17,19 @@ Breves explicações sobre, o que é um Framework e a diferença entre o Rails p
 * Instalado Vagrant para trabalhar com VM VirtualBox
 
 A princípio estarei usando o Vagrant e o VirtualBox (Cloud9) para aprender esta forma de se trabalhar, pois como me foi informado é uma maneira diferente de compartilhar toda a configuração do projeto para uma equipe de forma mais prática e também por interesse próprio.
+
+--------------------------------------------------------
+03-07-2019
+--------------------------------------------------------
+
+Dando continuação ao curso de Rails, instalei o Rails usando no ambiente do cloud9
+
+* Criado novo projeto 'meu_projeto'
+
+Iniciado Modulo 02 do curso: "Ruby Básico"
+
+Ruby = linguagem interpretada (MRI = Matz Ruby Interpreter, Ruby MRI, CRuby)
+
+* Removido projeto 'meu_projeto'
+
+
