@@ -32,4 +32,12 @@ Ruby = linguagem interpretada (MRI = Matz Ruby Interpreter, Ruby MRI, CRuby)
 
 * Removido projeto 'meu_projeto'
 
+* Criado arquivo de teste '01_teste_ruby.rb'
 
+IRB = Interactive Ruby Shell, Uma maquina interpretadora da linguagem ruby em tempo de digitação
+
+Me foi apresentado o PRY, que seria uma evolução do IRB, com indentação e coloração, em seguida instalei o mesmo.
+
+* Tornado o PRY o interpretador padrão ao digitar 'irb' no console
+
+Obs: Todos os logs das execuções feitas de acordo com a aula estão na pasta '03-07-19' no arquivo 'log.txt'
