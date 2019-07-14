@@ -1,0 +1,61 @@
+vagrant@ubuntu-bionic:/vagrant/workspace$ ruby 
+.c9/       modulo_02/ 
+vagrant@ubuntu-bionic:/vagrant/workspace$ ruby 
+.c9/       modulo_02/ 
+vagrant@ubuntu-bionic:/vagrant/workspace$ cd modulo_02/
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ls
+01_teste_ruby.rb  02_IO.rb
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 02_IO.rb 
+Digite seu nome: 
+JAison
+Seu nome é: JAison
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 02_IO.rb 
+Digite seu nome: 
+Jaison
+Seu nome é: Jaison
+----------------------
+"Jaison\n"
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 02_IO.rb 
+Digite seu nome: 
+JAison
+Seu nome é: JAison
+----------------------
+Inspect: "JAison"
+----------------------
+Digite um valor numerico
+900
+02_IO.rb:16:in `<main>': undefined method `pust' for main:Object (NoMethodError)
+Did you mean?  puts
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 02_IO.rb 
+Digite seu nome: 
+JAison
+Seu nome é: JAison
+----------------------
+Inspect: "JAison"
+----------------------
+Digite um valor numerico
+900 
+VAlor é 990.0000000000001
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 02_IO.rb 
+Digite seu nome: 
+jaosn
+Seu nome é: jaosn
+----------------------
+Inspect: "jaosn"
+----------------------
+Digite um valor numerico
+900
+VAlor é 990.0000000000001
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 02_IO.rb 
+Digite seu nome: 
+jason
+Seu nome é: jason
+----------------------
+Inspect: "jason"
+----------------------
+Digite um valor numerico
+299
+VAlor é 328.90000000000003
+02_IO.rb:17:in `+': no implicit conversion of Float into String (TypeError)
+        from 02_IO.rb:17:in `<main>'
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ 

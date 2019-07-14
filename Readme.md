@@ -9,7 +9,7 @@ https://www.udemy.com/rubyonrails-5x
 * Criado repositorio publico sobre este estudo
 * Sincronizado e carregado arquivos de todo o acompanhamento do curso ate o momento em meu repositorio
 
-No modulo 1, o instrutor falou sobre a historia do Ruby, onde em 1995 foi criado pelo Matsumoto, que em meados dos anos 2000 foi traduzido por Andy Hunt e Dave Thomas, e por fim surgiu então o Ruby on Rails (Rails) em 2003-2004 para acelerar o desenvolvimento de aplicações web contando com a linguagem Ruby.
+No modulo 1, o instrutor falou sobre a historia do Ruby, onde em 1995 foi criado pelo Matsumoto, que em meados dos anos 2000 foi traduzido por Andy Hunt e Dave Thomas, e por fim surgiu então o Rub on Rails (Rails) em 2003-2004 para acelerar o desenvolvimento de aplicações web contando com a linguagem Ruby.
 
 Breves explicações sobre, o que é um Framework e a diferença entre o Rails para outros frameworks foram abordadas nas video-aulas.
 
@@ -41,3 +41,14 @@ Me foi apresentado o PRY, que seria uma evolução do IRB, com indentação e co
 * Tornado o PRY o interpretador padrão ao digitar 'irb' no console
 
 Obs: Todos os logs das execuções feitas de acordo com a aula estão na pasta '03-07-19' no arquivo 'log.txt'
+
+--------------------------------------------------------
+14-07-2019
+--------------------------------------------------------
+
+Foi visto:
+
+* Saída e Entrada padrão, /n, Chomp e coerção
+* Estruturas condicionais
+
+Os testes realizados estão em arquivos .log e também os arquivos de execução estão dentro do projeto Vagrant

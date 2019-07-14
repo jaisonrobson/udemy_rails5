@@ -1,0 +1,96 @@
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 8
+03_condicionais.rb:4:in `<': comparison of String with 10 failed (ArgumentError)
+        from 03_condicionais.rb:4:in `<main>'
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 800
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 2
+x é maior que 5
+x é maior que 5
+x é maior que 5
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 2            
+x (6.0) é maior que 5
+x (8.0) é maior que 5
+x (10.0) é maior que 5
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 3
+x (7.0) é maior que 5
+x (9.0) é maior que 5
+x (11.0) é maior que 5
+--------------
+ 
+03_condicionais.rb:16:in `<main>': undefined method `que' for main:Object (NoMethodError)
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 2
+x (6.0) é maior que 5
+x (8.0) é maior que 5
+x (10.0) é maior que 5
+--------------
+Digite outro valor: 2
+03_condicionais.rb:16:in `<main>': undefined method `que' for main:Object (NoMethodError)
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 2
+x (6.0) é maior que 5
+x (8.0) é maior que 5
+x (10.0) é maior que 5
+--------------
+Digite outro valor: 2
+x é menor que 4
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 2
+x (6.0) é maior que 5
+x (8.0) é maior que 5
+x (10.0) é maior que 5
+--------------
+Digite outro valor: 2
+x é menor que 4
+--------------
+digite uma idade: 12
+criança
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 2
+x (6.0) é maior que 5
+x (8.0) é maior que 5
+x (10.0) é maior que 5
+--------------
+Digite outro valor: 2
+x é menor que 4
+--------------
+digite uma idade: 2
+bebe
+--------------
+digite um sexo (M,F): M
+MAsculino
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 3
+x (7.0) é maior que 5
+x (9.0) é maior que 5
+x (11.0) é maior que 5
+--------------
+Digite outro valor: 3
+x é menor que 4
+--------------
+digite uma idade: 3
+criança
+--------------
+digite um sexo (M,F): F
+Feminino
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ 
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ ruby 03_condicionais.rb 
+DIgite um valor: 2
+x (6.0) é maior que 5
+x (8.0) é maior que 5
+x (10.0) é maior que 5
+--------------
+Digite outro valor: 2
+x é menor que 4
+--------------
+digite uma idade: 2
+bebe
+--------------
+digite um sexo (M,F): f
+Feminino
+Fem
+vagrant@ubuntu-bionic:/vagrant/workspace/modulo_02$ 
