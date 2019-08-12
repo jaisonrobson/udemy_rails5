@@ -52,3 +52,13 @@ Foi visto:
 * Estruturas condicionais
 
 Os testes realizados estão em arquivos .log e também os arquivos de execução estão dentro do projeto Vagrant
+
+
+--------------------------------------------------------
+12-08-2019
+--------------------------------------------------------
+
+Sobre o Ruby foram vistos os seguintes tópicos:
+
+* Operadores relacionais e aritmeticos (> >= < <= == !=) (+ - * ** %)
+* Estruturas de repetição
