@@ -62,3 +62,12 @@ Sobre o Ruby foram vistos os seguintes tópicos:
 
 * Operadores relacionais e aritmeticos (> >= < <= == !=) (+ - * ** %)
 * Estruturas de repetição
+
+--------------------------------------------------------
+21-08-2019
+--------------------------------------------------------
+
+Sobre o Ruby os seguintes tópicos foram apresentados:
+
+* Vetores
+* Hashes (Versao do ruby 1.9+ e anteriores
