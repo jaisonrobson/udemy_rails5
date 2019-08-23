@@ -71,3 +71,23 @@ Sobre o Ruby os seguintes tópicos foram apresentados:
 
 * Vetores
 * Hashes (Versao do ruby 1.9+ e anteriores
+
+
+--------------------------------------------------------
+23-08-2019
+--------------------------------------------------------
+
+Sobre o Ruby foram estudados os topicos a seguir :
+
+* Strings, concatenação e Interpolação
+* Symbols
+* Parenteses e Constantes
+* Exemplificação de tipos primitivos vs complexos
+* Diferenciação e exemplificação de classes vs objetos
+* Uso e criação de classes e objetos
+
+
+obs: pesquisei rapidamente sobre o operador << (shovel ou left shift) no seguinte link, parece que a funcionalidade desse operador muda de acordo com o tipo de objeto que estamos lidando
+https://stackoverflow.com/questions/9730303/clarification-on-the-ruby-operator
+
+obs: tudo em ruby é um objeto, por isso que o .class está presente em todo lugar
