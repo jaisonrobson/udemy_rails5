@@ -91,3 +91,14 @@ obs: pesquisei rapidamente sobre o operador << (shovel ou left shift) no seguint
 https://stackoverflow.com/questions/9730303/clarification-on-the-ruby-operator
 
 obs: tudo em ruby é um objeto, por isso que o .class está presente em todo lugar
+
+--------------------------------------------------------
+30-09-2019
+--------------------------------------------------------
+
+Sobre o Ruby foram estudados os topicos a seguir :
+
+* Inicializacao de classes
+* Herança
+* Metodos attr_accessors
+* Variaveis de instancia
